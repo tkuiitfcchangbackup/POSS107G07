@@ -1,6 +1,7 @@
-HELLO
-I AM CHO,MENG-YEN
-23 YERAS OLD
+#group introduction
+We introduce daily constellation in order to letting people have an idea of a day
+We also compare the constellation from different aspect, such as who is most 
+clever one in 12 costellation and Love Compatibility between Zodiac Signs.
 
-I LIKE CURRY, YASSSS!
+
 
