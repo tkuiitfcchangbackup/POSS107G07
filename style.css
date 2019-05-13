@@ -1,9 +1,10 @@
 main{
-font-size:5pt;
-color:black;
+font-size:18px;
+color:blue;
 }
-t1{
-font-size:+5pt;
+h1{
+font-size:30px;
 color:red;
+text-align:center;
 }
 
