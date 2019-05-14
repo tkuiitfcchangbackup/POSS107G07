@@ -14,7 +14,7 @@
 	
 
 
-		<tr><td>Water Carrier(1/20-2/18)</td></tr>
+			<tr><td><a href="/POSS107G07/waterCarrier.html">Water Carrier(1/20-2/18)</a></td></tr>
 		<tr><td>Fish(2/19-3/20)</td></tr>
 		<tr><td>Ram(3/21-4/20)</td></tr>
 		<tr><td>Bull(4/21-5/20)</td></tr>
