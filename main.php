@@ -10,7 +10,8 @@
 	       </h1>
 	       <hr sixe="30px" align="center" width="100%">
 	<body>
-		<table style="position:relative; top:110px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="12" border='5'>
+              <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
+		<table style="position:relative; top:80px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 	
 
 
@@ -26,5 +27,6 @@
 		<tr><td><a href="/POSS107G07/Scoipion.php">Scoipion(10/24-11/22)</a></td></tr>
 		<tr><td><a href="/POSS107G07/Archer.php">Archer(11/23-12/21)</a></td></tr>
 		<tr><td><a href="/POSS107G07/Goat.php">Goat(12/22-1/20)</a></td></tr>
+             </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
 	</body>
 </html>    
