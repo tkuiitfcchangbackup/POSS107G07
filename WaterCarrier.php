@@ -9,7 +9,7 @@
     <h2>
          Water Carrier
     </h2>
-    
+    	<body style="background-color:powderblue;">
          <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
             <table style="position:relative; top:80px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid; border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 
@@ -41,7 +41,7 @@
 
 <hr size="5" align="center" noshade width="90%" color="000000">
 	
-<p style="color:red"> font size="15" >水瓶座的優點</p>  
+<h3 style="color:#0073e6;">水瓶座的優點</h3>  
 </center>   
 
 

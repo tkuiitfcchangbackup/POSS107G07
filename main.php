@@ -19,7 +19,7 @@
 	<tr>
 		<td align="center"><a href="/POSS107G07/WaterCarrier.php"><img src="/POSS107G07/watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 
-		<td><a href="/POSS107G07/Fish.php">Fish(2/19-3/20)</a></td>
+		<td align="center"><a href="/POSS107G07/Fish.php"><img src="/POSS107G07/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
 		<td align="center"><a href="/POSS107G07/Ram.php"><img src="/POSS107G07/ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
 		
