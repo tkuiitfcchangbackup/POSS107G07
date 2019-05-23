@@ -19,8 +19,13 @@
 	 <tr><td><a href="/POSS107G07/Bull.php">Bull(4/21-5/20)</a></td></tr>
 	 <tr><td><a href="/POSS107G07/Twins.php">Twins(5/21-6/21)</a></td></tr>
          </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
-        <body>
-	水瓶座的人頗富知性，且具有銳利的觀察力
-      
-    </body>   
+        <center>
+	水瓶座的人頗富知性，且具有銳利的觀察
+ </center>   
+	<body>
+	<marquee behavior="scroll" direction="left">
+		<img src= "https://i.pinimg.com/236x/77/2a/c4/772ac43e0c1778d6776093de5d21baa5--constellations.jpg" alt="Natural"/>
+	</marquee>
+</body>
+
 </html>
