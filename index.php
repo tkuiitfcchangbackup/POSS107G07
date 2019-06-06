@@ -28,33 +28,33 @@ echo "Connected successfully";
 
 
 	<tr>
-		<td align="center"><a href="/POSS107G07/WaterCarrier.php"><img src="/POSS107G07/watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="WaterCarrier.php"><img src="watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 
-		<td align="center"><a href="/POSS107G07/Fish.php"><img src="/POSS107G07/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="Fish.php"><img src="fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align="center"><a href="/POSS107G07/Ram.php"><img src="/POSS107G07/ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
+		<td align="center"><a href="Ram.php"><img src="ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
 		
-		<td align="center"><a href="/POSS107G07/Bull.php"><img src="/POSS107G07/bull.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="Bull.php"><img src="bull.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 		
 	<tr>
-		<td align = "center"><a href="/POSS107G07/Twins.php"><img src="/POSS107G07/twins.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Twins.php"><img src="twins.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="/POSS107G07/Crab.php"><img src="/POSS107G07/cancer.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Crab.php"><img src="cancer.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="/POSS107G07/Lion.php"><img src="/POSS107G07/leo.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Lion.php"><img src="leo.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align="center"><a href="/POSS107G07/Virgin.php"><img src="/POSS107G07/virgin.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="Virgin.php"><img src="virgin.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 		
 	<tr>
-		<td align = "center"><a href="/POSS107G07/Scales.php"><img src="/POSS107G07/scales.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Scales.php"><img src="scales.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="/POSS107G07/Scoipion.php"><img src="/POSS107G07/scorpio.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Scoipion.php"><img src="scorpio.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="/POSS107G07/Archer.php"><img src="/POSS107G07/sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Archer.php"><img src="sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="/POSS107G07/Goat.php"><img src="/POSS107G07/capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="Goat.php"><img src="capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 
              </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
