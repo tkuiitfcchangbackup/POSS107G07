@@ -19,7 +19,23 @@
 	 <tr><td><a href="/POSS107G07/Bull.php">Bull(4/21-5/20)</a></td></tr>
 	 <tr><td><a href="/POSS107G07/Twins.php">Twins(5/21-6/21)</a></td></tr>
          </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
-	
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p .one {
+border-style:double;
+border-width:2px;
+}
+</style>
+</head>
+<body>
+
+
+<p class = "one">
 <center>
 	水瓶座的人頗富知性，且具有銳利的觀察力、推測能力、以及富有冒險的開拓精神。求知慾逐漸加強後，會對任何事物都深入去思考，對於社會種種的不平等以及矛盾現象，總產生懷疑的態度或不平之心，而逐漸傾向反體制的思想。因而，有時甚至會變成孤獨的異端者，或表現出較激進的行動。個性獨立而執著。經常有一些激進、革新式的見地，屬於新時代的人物，有豐富的同胞愛和民主意識，能夠打破社會階級和人種的差異，培育真正的友情。對於一些既成的觀念，為了忠於自己的信念，會激動地試圖抵抗。這種類型的人，經常見於為了達成共同目的而結朋組黨，發起運動的人。
 
@@ -35,23 +51,21 @@
 <br>
 <br>
 	不容易受周圍環境的影響，只依賴自己心智上與精神上的能力，為自己盡最大的努力，依自己的智慧行事。解決事情的手段是合情合理，但有時候你的意見不見得合乎實際，因你的眼光是放得很遠以致於短時間內似乎不可能實現。但最后所預期的事常常正確地發生，並不匆忙地與人為友，但是一旦交了朋友友誼是非常的忠貞。
-<br>
-<r>
-
-
-<hr size="5" align="center" noshade width="90%" color="000000">
-	
-<h3 style="color:#0073e6;">水瓶座的優點</h3>  
-</center>   
-
-
-
-	<body>
-	<marquee behavior="scroll" direction="left">
-		<img src= "https://i.pinimg.com/236x/77/2a/c4/772ac43e0c1778d6776093de5d21baa5--constellations.jpg" alt="Natural"/>
-	</marquee>
-
-
+</p>
 </body>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3 style="color:#0073e6;">水瓶座的優點</h3>  
+</center>
+
+
+
+
+
 
 </html>

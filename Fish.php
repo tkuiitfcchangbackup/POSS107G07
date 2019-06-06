@@ -1,7 +1,19 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
+<!DOCTYPE html>
 <html>
-    <h2>
-         Fish
-    </h2>
+<head>
+<style>
+
+p.one {
+	border-style:double;
+	border-width:2px;
+	}
+
+</head>
+</style>
+
+<body>
+	<h2>
+	Fish
+	</h2> 
+</body>
 </html>
