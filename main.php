@@ -1,3 +1,14 @@
+<?php
+$servername = "localhost";
+$username = "group7";
+$password = "abc12345";
+
+$conn = new mysqli($servername, $username, $password);
+if($conn->connect_error ){
+	die("Connect failed: ". $conn->connect_error);
+}
+echo "Connected successfully";
+?>
 <link rel="stylesheet" type="text/css" href="style.css">
 <html>
 	<head>
@@ -9,10 +20,10 @@
 		        Constellation
 	       </h1>
 	       <hr sixe="30px" align="center" width="100%">
-	<body background ="/POSS107G07/bg1.jpg">
+	<body>
 	      <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
                <div style = "float:left">
-		<table style="position:relative; top:60px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
+		<table style="position:relative; top:30px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 	
 
 
@@ -27,23 +38,23 @@
 	</tr>
 		
 	<tr>
-		<td><a href="/POSS107G07/Twins.php">Twins(5/21-6/21)</a></td>
+		<td align = "center"><a href="/POSS107G07/Twins.php"><img src="/POSS107G07/twins.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Crab.php">Crab(6/22-7/22)</a></td>
+		<td align = "center"><a href="/POSS107G07/Crab.php"><img src="/POSS107G07/cancer.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Lion.php">Lion(7/23-8/22)</a></td>
+		<td align = "center"><a href="/POSS107G07/Lion.php"><img src="/POSS107G07/leo.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Virgin.php">Virgin(8/23-9/22)</a></td>
+		<td align="center"><a href="/POSS107G07/Virgin.php"><img src="/POSS107G07/virgin.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 		
 	<tr>
-		<td><a href="/POSS107G07/Scales.php">Scales(9/23-10/23)</a></td>
+		<td align = "center"><a href="/POSS107G07/Scales.php"><img src="/POSS107G07/scales.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Scoipion.php">Scoipion(10/24-11/22)</a></td>
+		<td align = "center"><a href="/POSS107G07/Scoipion.php"><img src="/POSS107G07/scorpio.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Archer.php">Archer(11/23-12/21)</a></td>
+		<td align = "center"><a href="/POSS107G07/Archer.php"><img src="/POSS107G07/sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td><a href="/POSS107G07/Goat.php">Goat(12/22-1/20)</a></td>
+		<td align = "center"><a href="/POSS107G07/Goat.php"><img src="/POSS107G07/capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 
              </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
