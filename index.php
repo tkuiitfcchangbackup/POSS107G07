@@ -9,15 +9,19 @@ if($conn->connect_error ){
 }
 echo "Connected successfully";
 ?>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/12constellations/style.css">
 <html>
 	<head>
 		<title>
 			group7
-			</title>
+	</title>
 		</head>
-	       <h1>
-		        Constellation
+		   <h3> 
+		     <a href="/Project/GroupIntroduction.txt" > Group Introduction</a>
+                  
+                    </h3>
+	       <h1>   
+			Constellation
 	       </h1>
 	       <hr sixe="30px" align="center" width="100%">
 	<body>
@@ -28,33 +32,33 @@ echo "Connected successfully";
 
 
 	<tr>
-		<td align="center"><a href="WaterCarrier.php"><img src="../watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="12constellations/WaterCarrier.php"><img src="/image/watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 
-		<td align="center"><a href="Fish.php"><img src="fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="12constellations/Fish.php"><img src="/image/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align="center"><a href="Ram.php"><img src="ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
+		<td align="center"><a href="12constellations/Ram.php"><img src="/image/ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
 		
-		<td align="center"><a href="Bull.php"><img src="bull.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="12constellations/Bull.php"><img src="/image/bull.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 		
 	<tr>
-		<td align = "center"><a href="Twins.php"><img src="twins.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Twins.php"><img src="/image/twins.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="Crab.php"><img src="cancer.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Crab.php"><img src="/image/cancer.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="Lion.php"><img src="leo.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Lion.php"><img src="/image/leo.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align="center"><a href="Virgin.php"><img src="virgin.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align ="center"><a href="12constellations/Virgin.php"><img src="/image/virgin.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 		
 	<tr>
-		<td align = "center"><a href="Scales.php"><img src="scales.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Scales.php"><img src="/image/scales.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="Scoipion.php"><img src="scorpio.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Scoipion.php"><img src="/image/scorpio.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="Archer.php"><img src="sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Archer.php"><img src="/image/sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="Goat.php"><img src="capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/Goat.php"><img src="/image/capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 
              </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
