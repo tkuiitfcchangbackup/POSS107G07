@@ -2,12 +2,13 @@
 $servername = "localhost";
 $username = "group7";
 $password = "abc12345";
+$dbname = "db0";
 
 $conn = new mysqli($servername, $username, $password);
 if($conn->connect_error ){
 	die("Connect failed: ". $conn->connect_error);
 }
-echo "Connected successfully";
+echo "Connect";
 ?>
 <link rel="stylesheet" type="text/css" href="/12constellations/style.css">
 <html>
@@ -17,13 +18,13 @@ echo "Connected successfully";
 	</title>
 		</head>
 		   <h3> 
-		     <a href="/Project/GroupIntroduction.txt" > Group Introduction</a>
-                  
+		     <a href="/Project/GroupIntroduction.txt" > Group Introduction</a><br>
+                     <a href="/Project/project proposal.txt">projectproposal</a>
                     </h3>
 	       <h1>   
 			Constellation
 	       </h1>
-	       <hr sixe="30px" align="center" width="100%">
+	       <hr size="0px" align="center" width="100%">
 	<body>
 	      <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
 	       <div style = "float:left">
@@ -69,14 +70,24 @@ echo "Connected successfully";
 
                <div style = "float:right">
                	
-	       <table style="position:relative; top:80px; right:10px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
+	       <table style="position:relative; top:80px; right:1px;border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="8" border='0'>
+<tr><td colspan="2" align="center" color="black">星座排行榜</td></tr>
 		<tr>
-                     <td>星座運勢排行</td>
-                     <td>星座學業排行</td>                                 
+ 		<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=2015">不容易被愛情沖昏頭<a></td>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=2014">洗完澡絕不出門的星座</a></td></tr>
+<tr>
+	       <td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=2002">願意為情人改變壞習慣的星座</a></td>
+               <td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1979">心情不好裝沒事一 安慰就崩潰</a></td>				 
 	       </tr>
-		<tr>
-			<td>星座財運排行</td>
-			<td>星座愛情排行</td>
+<tr>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1980">愛得太天真容易被傷很深</a></td>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1982">受到打擊反而很想贏的星座</a></td>
+</tr>
+<tr>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1984">很難安靜看電視</a></td>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1986">不喜歡改變別人，也不喜歡被改變</a></td>
+</tr>
+		
 	
 </div>     
  </body>
