@@ -1,8 +1,31 @@
+![alt](https://www.slurp-ramen.com/wp-content/uploads/2017/06/hello.png)
+</br>
+</br>
+</br>
+</br>
+</br>
 
-# Group7 
-## [project](https://github.com/TKUIITFCChang/POSS107G07/blob/master/index.php)
-## [Group introduction](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/GroupIntroduction.txt)
-## [Group member](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/groupmember.txt)
-## [Individal introduction](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/individal%20introduction.txt)
-## [Project proposal](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/project%20proposal.txt)
 
+## Purposal:
+    We would like to build up a website about constellation.
+    It may provide you daily fortune, such like you may get some promotion chance...
+    Moreover, we will provide constellation ranking.
+***
+</br>
+</br>
+</br>
+
+
+
+## Group Members:
+    -TingChi Liang  IIT4  > Handling most of the coding part
+    -Can Dun        IIT4  > File up all the source
+    -MengYen Cho    IIT4  > Searching for the good materials
+***
+</br>
+</br>
+</br>
+
+
+## Here is our work
+# [project](https://github.com/TKUIITFCChang/POSS107G07/blob/master/index.php)
