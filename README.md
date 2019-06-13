@@ -1,7 +1,7 @@
 
 # Group7 
 ## [project](https://github.com/TKUIITFCChang/POSS107G07/blob/master/index.php)
-## [Group introduction](https://github.com/TKUIITFCChang/POSS107G07/blob/master/GroupIntroduction.txt)
+## [Group introduction](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/GroupIntroduction.txt)
 ## [Group member](https://github.com/TKUIITFCChang/POSS107G07/blob/master/groupmember.txt)
 ## [Individal introduction](https://github.com/TKUIITFCChang/POSS107G07/blob/master/individal%20introduction.txt)
 ## [Project proposal](https://github.com/TKUIITFCChang/POSS107G07/blob/master/Project/project%20proposal.txt)
