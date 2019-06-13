@@ -26,13 +26,15 @@ echo "Connected successfully";
 	       <hr sixe="30px" align="center" width="100%">
 	<body>
 	      <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
-               <div style = "float:left">
+	       <div style = "float:left">
 		<table style="position:relative; top:30px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 	
 
 
 	<tr>
+
 		<td align="center"><a href="12constellations/WaterCarrier.php"><img src="/image/watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+
 
 		<td align="center"><a href="12constellations/Fish.php"><img src="/image/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
