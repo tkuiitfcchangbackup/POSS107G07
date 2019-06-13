@@ -1,0 +1,29 @@
+body{
+font-size:18px;
+color:black;
+text-align:center;
+text-align:justify;
+}
+h1{
+font-size:60px;
+color:red;
+text-align:center;
+}
+h2{
+font-size:60px;
+color:orange;
+text-align:center;
+}
+p{
+	width:55px;
+	height:48px;
+	margin:50px auto;
+	overflow:hidden;
+}
+p img{
+	cursor:pointer;
+	transition: all 0.5s;
+}
+p img:hover{
+	transform:scale(1.5);
+}
