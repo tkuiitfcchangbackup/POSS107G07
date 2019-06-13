@@ -11,8 +11,8 @@
 * [Group Members](#Group-Members)
 
 
-### Let's get ready
-# 1. Installing Apache
+## Let's get ready
+#### 1. Installing Apache
 Update your local package index:
 
 ```
@@ -22,6 +22,33 @@ Install the apache2 package:
 
 ```
 $ sudo apt install apache2
+```
+#### 2. Clone repository to Apache
+When you create a repository on GitHub, it exists as a remote repository. 
+You can clone your repository to create a local copy on your computer and sync between the two locations.
+
+1 >>>
+```
+Open your terminal
+```
+2 >>>
+```
+Change the current working directory to the location where you want the cloned directory to be made.
+```
+3 >>>
+Type **git clone**
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+4 >>>
+Press **ENTER**, your clone will be ready.
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 ```
 
 ## Purposal:
