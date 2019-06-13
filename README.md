@@ -59,9 +59,16 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 
 ## Group Members:
-    -TingChi Liang  IIT4  > Handling most of the coding part
-    -Can Dun        IIT4  > File up all the source
-    -MengYen Cho    IIT4  > Searching for the good materials
+
+* **TingChi Liang**  IIT4  > *Handling most of the coding part*
+* **Can Dun**        IIT4  > *File up all the source*
+* **MengYen Cho**    IIT4  > *Searching for the good materials*
+
+## Group Members:
+|NAME|DEP|RESPONSIBLE FOR|
+|**TingChi Liang**|IIT4|*Handling most of the coding part*|
+|**Can Dun**      |IIT4|*File up all the source*|
+|**MengYen Cho**  |IIT4|*Searching for the good materials*|
 
 
 ## Here is our work
