@@ -26,7 +26,7 @@ echo "Connect";
 	       </h1>
 	       <hr size="0px" align="center" width="100%">
 	<body>
-	      <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
+	      <blockquote><blockquote><blockquote><blockquote><blockquote>
 	       <div style = "float:left">
 		<table style="position:relative; top:30px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;border-right:4px #FFD382 solid;border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 	
@@ -37,7 +37,7 @@ echo "Connect";
 		<td align="center"><a href="12constellations/WaterCarrier.php"><img src="/image/watercarrier.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 
 
-		<td align="center"><a href="12constellations/Fish.php"><img src="/image/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align="center"><a href="12constellations/fish.php"><img src="/image/fish.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
 		<td align="center"><a href="12constellations/Ram.php"><img src="/image/ram.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;" ></a></td>
 		
@@ -61,10 +61,10 @@ echo "Connect";
 		
 		<td align = "center"><a href="12constellations/Archer.php"><img src="/image/sagittarius.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 		
-		<td align = "center"><a href="12constellations/Goat.php"><img src="/image/capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
+		<td align = "center"><a href="12constellations/goat.php"><img src="/image/capricorn.png" alt="HTML tutorial" style = "width:100px;height:100px;border:0;"></a></td>
 	</tr>
 
-             </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+             </blockquote></blockquote></blockquote></blockquote></blockquote>
 </table>
 </div>
 
@@ -88,7 +88,10 @@ echo "Connect";
 <td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1986">不喜歡改變別人，也不喜歡被改變</a></td>
 </tr>
 		
-	
+<tr>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1983">被誇獎會不知所措的星座</a></td>
+<td><a href="http://bluesbear.talk.tw/Article.aspx?Article_ID=1976">容易酒後吐真言的星座</a></td>
+</tr>	
 </div>     
  </body>
 

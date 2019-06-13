@@ -1,38 +1,57 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <html>
+    <head>
+          <title>
+                Virgin
+          </title>
+    </head>
+<h3>
+<a href="../index.php">HOME</a>
+</h3>
     <h2>
-<?php 
- function curl_http($url, $data=array(),$header=array(),$timeout=30,$debug=false){
-	 $url = 'http://tw.yahoo.com';
-	 $ch = curl_init();
-	 //curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-	 //curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-	 curl_setopt($ch, CURLOPT_URL, $url);
-	 //curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
-	 //curl_setopt($ch, CURLOPT_POST, true);
-	 //curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
-	 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-	 //curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);
-	 $response = curl_exec($ch);
-	 if($error=curl_error($ch)){
-		 die($error);
-	 }
-	 if($debug)
-	 {
-		 echo'====info===='."\r\n";
-		 print_r( curl_getinfo($ch) );
-		 echo'====erro===='."\r\n";
-		 print_r( curl_error($ch) );
-		 echo'====$response===='."\r\n";
-		 print_r($response);
-	 }
-	 curl_close($ch);
-	 return $response;
- }
-
-echo curl_http('');
-?>
+         Virgin
     </h2>
-</html>
+        <body style="background-color:powderblue;">
+         <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote>
+            <table style="position:relative; top:80px; border-top:4px #FFD382 solid;border-bottom:4px #FFD382 solid;bor
+der-right:4px #FFD382 solid; border-left:4px #FFD382 solid;" cellpadding="15" border='0'>
 
+
+         </blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p .one {
+border-style:double;
+border-width:2px;
+}
+</style>
+</head>
+<body>
+
+
+<p class = "one">
+<center>
+        處女座的人，正是人如其名，具有純潔、潔癖及正義感。處女座的人最討厭不合理的事。他的神經也比較敏感，即一些芝麻小事也能考慮週到。處女座的人並非刻意要去找別人的麻煩，只是他天性中便有愛挑毛病的習慣，因此，往往得不到真相。這也就是處女座的人最大的缺點，應加以注意。處女座的人，如果能將天生具備的旺盛求知慾，以及敏銳的感受力相互配合，以追求更高的理想，就能創造出不凡的事業。為人勤勉，一絲不苟，喜歡接觸社會，行事採取合理主義，是一個對社會頗有貢獻的人。對人體貼入微，做起事來也有大將之風，但是有時過於小心，反而無法掌握大綱，不過大體上是一個有計畫的人，而且一向本著良心做事。在個性上思慮較多，富於批判精神，容易成為鋒利的評論家。有濃厚的道德觀念。
+處女座的人勤奮，實際，慎重，誠實可靠，具有樂於助人的天性，有外交才能，儀容整潔而吸引人，講究衣著，有獨立的思想和觀察力。也有優越的分析能力和很快的領悟力。
+愛沈思，很勤勉，非常喜歡看書，仁慈憐憫，感情敏感而保守，注重細節而易忽略全盤大局，具有服務精神。
+
+天生喜愛整潔和精確，性喜純潔。有多愁善感，憂鬱的傾向。富於靈感及活潑的直覺而能了解別人個性和動機，為人謙虛，不和他人競爭，外觀好似消極，其實是決心堅定而腳踏實地的作風。初見沒有魄力，但工作態度非常細心，憑良心做事，守秩序。
+
+態度富於實際而且能腳踏實地，是一位擁有特殊智能，能夠勝任而且勤勉的工作者，記憶力強，知覺力也強，也具有謹慎的機智，畢業後也有進修的習慣、能不斷地吸收精神食糧，善於批評判斷，喜歡分析，但易傾向吹毛求疵。
+</p>
+</body>
+<h3 style="color:#0073e6;">處女座的優點</h3>
+追求完美、永不氣餒、腳踏實地、事事謹慎、小心，善於蒐集資料、勤奮努力、守本份、靠得住、謙遜不誇大，有精確的觀察力、有耐性、對愛情忠實、謙虛、喜歡整潔、處事強、能明辨是非。
+
+處女座的特徵有童真般的天真純情，思想嚴謹不浮燥，事冷靜有條理，分析事理的能力很強,也很注重個人徫生習慣.但有時會過於潔癖。
+<h3 style="color:#0073e6;">處女座的缺點</h3>
+</center>
+太過吹毛求疵、嘮叨、瑣碎、杞人憂天、窮緊張、自掃門前雪、有潔癖傾向、缺乏接受批評的雅量、不夠浪漫、不尊重他人的夢想、人際關係待加強、太過實際、缺乏遠見、喜歡雞蛋善感、小題大作、古板、難以取悅。
+
+太過完美主義的處女座，是個很注重細節的星座，因此對別人的要求很高，一但不滿就會批評對方，因此對事情的看法切勿過份極端，會造成別人的反感。
+
+</html>
